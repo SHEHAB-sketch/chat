@@ -1,0 +1,16 @@
+C:\Users\LAPTOP SHOP\Desktop\\u0634\u0627\u0643\u0631\app.py:3: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Rotation matching: Key[0] | Model: gemini-2.0-flash
+Smart Academic Advisor API running on http://localhost:5000
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
